@@ -21,6 +21,7 @@ I’m currently learning Angular, Angular Material and SASS.
 ![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=Angular&logoColor=white)
 
 ![SASS](https://img.shields.io/badge/SASS-cf649a?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-702cf4?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-99425b?style=for-the-badge&logo=Jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-2c2c2c?style=for-the-badge&logo=Figma&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/AdobeXD-450135?style=for-the-badge&logo=AdobeXd&logoColor=white)
