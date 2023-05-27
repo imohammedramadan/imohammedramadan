@@ -31,9 +31,8 @@ And I am actively contributing to the upcoming version of [Macro Deck](https://g
 ![Git](https://img.shields.io/badge/Git-f54d27?style=for-the-badge&logo=Git&logoColor=white)
 
 ## 📫 How to reach me
-
-- [mohammed.ramadan1474@gmail.com](mailto:mohammed.ramadan1474@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/imohammedramadan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.ramadan1474@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imohammedramadan/)
 
 ## Stats
 
