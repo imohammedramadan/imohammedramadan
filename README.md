@@ -15,14 +15,14 @@ And I am actively contributing to the upcoming version of [Macro Deck](https://g
 - [Library](https://github.com/imohammedramadan/TOP-Library)
 
 ## Technologies i use
-
+![Vue.js](https://img.shields.io/badge/Vuejs-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=Angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-c2185b?style=for-the-badge&logo=reactivex&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-cf649a?style=for-the-badge&logo=SASS&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-99425b?style=for-the-badge&logo=Jest&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-702cf4?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-702cf4?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-e44d26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-0070ba?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=000000)
